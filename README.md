@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Istanbul
 
 You can use the [editor on GitHub](https://github.com/azraade/istanbul/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
